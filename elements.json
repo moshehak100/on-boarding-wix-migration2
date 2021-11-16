@@ -1,0 +1,2028 @@
+[
+  [
+    {
+      "type": "text",
+      "x": 124,
+      "y": 959,
+      "width": 534,
+      "height": 35,
+      "text": "bla bla bla",
+      "zIndex": "49"
+    },
+    {
+      "type": "text",
+      "x": 229,
+      "y": 1907,
+      "width": 346,
+      "height": 52,
+      "text": "bla bla bla",
+      "zIndex": "55"
+    },
+    {
+      "type": "text",
+      "x": 229,
+      "y": 1963,
+      "width": 346,
+      "height": 60,
+      "text": "bla bla bla",
+      "zIndex": "62"
+    },
+    {
+      "type": "text",
+      "x": 229,
+      "y": 2029,
+      "width": 346,
+      "height": 60,
+      "text": "bla bla bla",
+      "zIndex": "67"
+    },
+    {
+      "type": "text",
+      "x": 1026,
+      "y": 135,
+      "width": 59,
+      "height": 15,
+      "text": "bla bla bla",
+      "zIndex": "72"
+    },
+    {
+      "type": "text",
+      "x": 135,
+      "y": 1850,
+      "width": 936,
+      "height": 100,
+      "text": "bla bla bla",
+      "zIndex": "106"
+    },
+    {
+      "type": "text",
+      "x": 713,
+      "y": 1904,
+      "width": 346,
+      "height": 49,
+      "text": "bla bla bla",
+      "zIndex": "111"
+    },
+    {
+      "type": "text",
+      "x": 713,
+      "y": 1961,
+      "width": 346,
+      "height": 60,
+      "text": "bla bla bla",
+      "zIndex": "112"
+    },
+    {
+      "type": "text",
+      "x": 713,
+      "y": 2029,
+      "width": 346,
+      "height": 58,
+      "text": "bla bla bla",
+      "zIndex": "113"
+    },
+    {
+      "type": "text",
+      "x": 228,
+      "y": 2096,
+      "width": 346,
+      "height": 58,
+      "text": "bla bla bla",
+      "zIndex": "115"
+    },
+    {
+      "type": "text",
+      "x": 712,
+      "y": 2098,
+      "width": 346,
+      "height": 51,
+      "text": "bla bla bla",
+      "zIndex": "120"
+    },
+    {
+      "type": "text",
+      "x": 712,
+      "y": 2158,
+      "width": 346,
+      "height": 48,
+      "text": "bla bla bla",
+      "zIndex": "127"
+    },
+    {
+      "type": "text",
+      "x": 228,
+      "y": 2160,
+      "width": 346,
+      "height": 46,
+      "text": "bla bla bla",
+      "zIndex": "133"
+    },
+    {
+      "type": "text",
+      "x": 713,
+      "y": 2218,
+      "width": 346,
+      "height": 58,
+      "text": "bla bla bla",
+      "zIndex": "153"
+    },
+    {
+      "type": "text",
+      "x": 228,
+      "y": 2220,
+      "width": 346,
+      "height": 58,
+      "text": "bla bla bla",
+      "zIndex": "156"
+    },
+    {
+      "type": "text",
+      "x": 142,
+      "y": 2456,
+      "width": 926,
+      "height": 179,
+      "text": "bla bla bla",
+      "zIndex": "160"
+    },
+    {
+      "type": "text",
+      "x": 250,
+      "y": 1251,
+      "width": 384,
+      "height": 106,
+      "text": "bla bla bla",
+      "zIndex": "164"
+    },
+    {
+      "type": "text",
+      "x": 375,
+      "y": 1629,
+      "width": 674,
+      "height": 170,
+      "text": "bla bla bla",
+      "zIndex": "167"
+    },
+    {
+      "type": "text",
+      "x": 249,
+      "y": 1397,
+      "width": 384,
+      "height": 29,
+      "text": "bla bla bla",
+      "zIndex": "175"
+    },
+    {
+      "type": "text",
+      "x": 862,
+      "y": 1402,
+      "width": 207,
+      "height": 67,
+      "text": "bla bla bla",
+      "zIndex": "179"
+    },
+    {
+      "type": "text",
+      "x": 737,
+      "y": 991,
+      "width": 177,
+      "height": 21,
+      "text": "bla bla bla",
+      "zIndex": "188"
+    },
+    {
+      "type": "text",
+      "x": 129,
+      "y": 509,
+      "width": 534,
+      "height": 304,
+      "text": "bla bla bla",
+      "zIndex": "190"
+    },
+    {
+      "type": "text",
+      "x": 249,
+      "y": 1471,
+      "width": 384,
+      "height": 34,
+      "text": "bla bla bla",
+      "zIndex": "195"
+    },
+    {
+      "type": "text",
+      "x": 127,
+      "y": 852,
+      "width": 532,
+      "height": 100,
+      "text": "bla bla bla",
+      "zIndex": "200"
+    },
+    {
+      "type": "text",
+      "x": 227,
+      "y": 2288,
+      "width": 346,
+      "height": 58,
+      "text": "bla bla bla",
+      "zIndex": "207"
+    },
+    {
+      "type": "text",
+      "x": 144,
+      "y": 16,
+      "width": 878,
+      "height": 115,
+      "text": "bla bla bla",
+      "zIndex": "16"
+    },
+    {
+      "type": "text",
+      "x": 872,
+      "y": 16,
+      "width": 142,
+      "height": 30,
+      "text": "bla bla bla",
+      "zIndex": "19"
+    },
+    {
+      "type": "text",
+      "x": 129,
+      "y": 459,
+      "width": 415,
+      "height": 56,
+      "text": "bla bla bla",
+      "zIndex": "20"
+    },
+    {
+      "type": "text",
+      "x": 684,
+      "y": 464,
+      "width": 155,
+      "height": 56,
+      "text": "bla bla bla",
+      "zIndex": "25"
+    },
+    {
+      "type": "text",
+      "x": 125,
+      "y": 1004,
+      "width": 536,
+      "height": 132,
+      "text": "bla bla bla",
+      "zIndex": "26"
+    },
+    {
+      "type": "text",
+      "x": 119,
+      "y": 919,
+      "width": 343,
+      "height": 63,
+      "text": "bla bla bla",
+      "zIndex": "47"
+    },
+    {
+      "type": "text",
+      "x": 130,
+      "y": 1531,
+      "width": 916,
+      "height": 49,
+      "text": "bla bla bla",
+      "zIndex": "54"
+    },
+    {
+      "type": "text",
+      "x": 134,
+      "y": 1808,
+      "width": 343,
+      "height": 63,
+      "text": "bla bla bla",
+      "zIndex": "105"
+    },
+    {
+      "type": "text",
+      "x": 140,
+      "y": 2413,
+      "width": 343,
+      "height": 63,
+      "text": "bla bla bla",
+      "zIndex": "159"
+    },
+    {
+      "type": "text",
+      "x": 249,
+      "y": 1200,
+      "width": 343,
+      "height": 39,
+      "text": "bla bla bla",
+      "zIndex": "161"
+    },
+    {
+      "type": "text",
+      "x": 130,
+      "y": 1165,
+      "width": 343,
+      "height": 36,
+      "text": "bla bla bla",
+      "zIndex": "168"
+    },
+    {
+      "type": "text",
+      "x": 253,
+      "y": 1360,
+      "width": 343,
+      "height": 36,
+      "text": "bla bla bla",
+      "zIndex": "174"
+    },
+    {
+      "type": "text",
+      "x": 615,
+      "y": 1162,
+      "width": 343,
+      "height": 36,
+      "text": "bla bla bla",
+      "zIndex": "176"
+    },
+    {
+      "type": "text",
+      "x": 736,
+      "y": 963,
+      "width": 154,
+      "height": 77,
+      "text": "bla bla bla",
+      "zIndex": "187"
+    },
+    {
+      "type": "text",
+      "x": 250,
+      "y": 1437,
+      "width": 343,
+      "height": 36,
+      "text": "bla bla bla",
+      "zIndex": "196"
+    },
+    {
+      "type": "text",
+      "x": 126,
+      "y": 807,
+      "width": 400,
+      "height": 41,
+      "text": "bla bla bla",
+      "zIndex": "199"
+    },
+    {
+      "type": "text",
+      "x": 350,
+      "y": 151,
+      "width": 675,
+      "height": 307,
+      "text": "bla bla bla",
+      "zIndex": "205"
+    }
+  ],
+  [
+    {
+      "type": "img",
+      "x": 1022,
+      "y": 16,
+      "width": 55,
+      "height": 58,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740908_55x58.jpg",
+      "alt": "Hemi",
+      "zIndex": "17"
+    },
+    {
+      "type": "img",
+      "x": 118,
+      "y": 152,
+      "width": 220,
+      "height": 242,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740908_220x242.jpg",
+      "alt": "Hemi",
+      "zIndex": "23"
+    },
+    {
+      "type": "img",
+      "x": 1039,
+      "y": 180,
+      "width": 31,
+      "height": 18,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740947.gif",
+      "alt": "spain-flag",
+      "zIndex": "66"
+    },
+    {
+      "type": "img",
+      "x": 135,
+      "y": 2033,
+      "width": 74,
+      "height": 50,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740947.gif",
+      "alt": "spain-flag",
+      "zIndex": "68"
+    },
+    {
+      "type": "img",
+      "x": 135,
+      "y": 1965,
+      "width": 75,
+      "height": 52,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740918.gif",
+      "alt": "netherlands-flag",
+      "zIndex": "98"
+    },
+    {
+      "type": "img",
+      "x": 136,
+      "y": 1907,
+      "width": 75,
+      "height": 48,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740950_75x48.jpg",
+      "alt": "swedish-flag",
+      "zIndex": "99"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 268,
+      "width": 30,
+      "height": 20,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740918.gif",
+      "alt": "netherlands-flag",
+      "zIndex": "100"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 153,
+      "width": 31,
+      "height": 20,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740950_31x20.jpg",
+      "alt": "swedish-flag",
+      "zIndex": "101"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 291,
+      "width": 29,
+      "height": 20,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740912.gif",
+      "alt": "italy-flag",
+      "zIndex": "102"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 199,
+      "width": 30,
+      "height": 18,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740933.gif",
+      "alt": "russia flag better",
+      "zIndex": "103"
+    },
+    {
+      "type": "img",
+      "x": 625,
+      "y": 1907,
+      "width": 71,
+      "height": 44,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740912.gif",
+      "alt": "italy-flag",
+      "zIndex": "107"
+    },
+    {
+      "type": "img",
+      "x": 626,
+      "y": 1967,
+      "width": 73,
+      "height": 48,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740933.gif",
+      "alt": "russia flag better",
+      "zIndex": "108"
+    },
+    {
+      "type": "img",
+      "x": 625,
+      "y": 2034,
+      "width": 74,
+      "height": 49,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740903_74x49.png",
+      "alt": "french-flag",
+      "zIndex": "109"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 222,
+      "width": 28,
+      "height": 19,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740928.gif",
+      "alt": "portugal-flag",
+      "zIndex": "116"
+    },
+    {
+      "type": "img",
+      "x": 138,
+      "y": 2107,
+      "width": 69,
+      "height": 43,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740928.gif",
+      "alt": "portugal-flag",
+      "zIndex": "117"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 337,
+      "width": 29,
+      "height": 17,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740880_29x17.jpg",
+      "alt": "Czech-flag",
+      "zIndex": "118"
+    },
+    {
+      "type": "img",
+      "x": 625,
+      "y": 2102,
+      "width": 73,
+      "height": 45,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740880_73x45.jpg",
+      "alt": "Czech-flag",
+      "zIndex": "119"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 245,
+      "width": 29,
+      "height": 19,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740894_29x19.png",
+      "alt": "Flag_of_Germany.svg",
+      "zIndex": "121"
+    },
+    {
+      "type": "img",
+      "x": 626,
+      "y": 2159,
+      "width": 74,
+      "height": 45,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740894_74x45.png",
+      "alt": "Flag_of_Germany.svg",
+      "zIndex": "128"
+    },
+    {
+      "type": "img",
+      "x": 139,
+      "y": 2160,
+      "width": 70,
+      "height": 47,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740940_70x47.jpg",
+      "alt": "slovakia",
+      "zIndex": "136"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 360,
+      "width": 29,
+      "height": 20,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740940_29x20.jpg",
+      "alt": "slovakia",
+      "zIndex": "137"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 314,
+      "width": 31,
+      "height": 20,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740800_31x20.jpg",
+      "alt": "French flag",
+      "zIndex": "138"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 386,
+      "width": 26,
+      "height": 17,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740806_26x17.jpg",
+      "alt": "Japan Flag",
+      "zIndex": "149"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 409,
+      "width": 29,
+      "height": 18,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740803_29x18.png",
+      "alt": "Greece-flag-240",
+      "zIndex": "151"
+    },
+    {
+      "type": "img",
+      "x": 140,
+      "y": 2222,
+      "width": 68,
+      "height": 44,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740803_68x44.png",
+      "alt": "Greece-flag-240",
+      "zIndex": "157"
+    },
+    {
+      "type": "img",
+      "x": 628,
+      "y": 2217,
+      "width": 77,
+      "height": 58,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740806_77x58.jpg",
+      "alt": "Japan Flag",
+      "zIndex": "158"
+    },
+    {
+      "type": "img",
+      "x": 175,
+      "y": 1365,
+      "width": 47,
+      "height": 43,
+      "src": "http://neurosymptomsnew.kk5.org/_app/1611515228/en/simplemedia/socialIcons/tw-col-large.png",
+      "alt": "Twitter blue large",
+      "zIndex": "173"
+    },
+    {
+      "type": "img",
+      "x": 614,
+      "y": 1206,
+      "width": 155,
+      "height": 79,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634810679_155x79.png",
+      "alt": "FNDHopeoutlineshadow",
+      "zIndex": "180"
+    },
+    {
+      "type": "img",
+      "x": 675,
+      "y": 959,
+      "width": 231,
+      "height": 59,
+      "src": "http://neurosymptomsnew.kk5.org/_imgstore/9/4013612269/page_welcome_fD1ve1whxjEYTLK3FqoCR/amtMRINcd4SdQMVO445cixsx11k.png",
+      "alt": "",
+      "zIndex": "186"
+    },
+    {
+      "type": "img",
+      "x": 168,
+      "y": 1437,
+      "width": 53,
+      "height": 52,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634810765_53x52.png",
+      "alt": "video-play-xxl",
+      "zIndex": "197"
+    },
+    {
+      "type": "img",
+      "x": 1040,
+      "y": 435,
+      "width": 31,
+      "height": 23,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4637600414_31x23.png",
+      "alt": "Brazil",
+      "zIndex": "206"
+    },
+    {
+      "type": "img",
+      "x": 142,
+      "y": 2289,
+      "width": 68,
+      "height": 50,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4637600414_68x50.png",
+      "alt": "Brazil",
+      "zIndex": "208"
+    },
+    {
+      "type": "img",
+      "x": 767,
+      "y": 1289,
+      "width": 139,
+      "height": 52,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634810677_139x52.png",
+      "alt": "FND Dimension",
+      "zIndex": "209"
+    },
+    {
+      "type": "img",
+      "x": 620,
+      "y": 1286,
+      "width": 145,
+      "height": 83,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634810686_145x83.png",
+      "alt": "FND Hope UK",
+      "zIndex": "210"
+    },
+    {
+      "type": "img",
+      "x": 916,
+      "y": 1203,
+      "width": 144,
+      "height": 145,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4635626848_144x145.png",
+      "alt": "fnd-australia-support-services-inc",
+      "zIndex": "211"
+    },
+    {
+      "type": "img",
+      "x": 713,
+      "y": 1398,
+      "width": 125,
+      "height": 79,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740797_125x79.jpg",
+      "alt": "FNDFriends cropped",
+      "zIndex": "212"
+    },
+    {
+      "type": "img",
+      "x": 779,
+      "y": 1208,
+      "width": 158,
+      "height": 69,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634810678_158x69.png",
+      "alt": "FND-Action-Logo -outlineshadow",
+      "zIndex": "213"
+    },
+    {
+      "type": "img",
+      "x": 148,
+      "y": 1218,
+      "width": 84,
+      "height": 108,
+      "src": "http://neurosymptomsnew.kk5.org/communities/9/004/013/612/269//images/4634740808_84x108.jpg",
+      "alt": "Jon Stone B&W",
+      "zIndex": "214"
+    }
+  ],
+  [
+    {
+      "type": "container",
+      "x": 103,
+      "y": 8,
+      "width": 996,
+      "height": 86,
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 1)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(170, 170, 170)"
+      },
+      "zIndex": "1"
+    },
+    {
+      "type": "container",
+      "x": 102,
+      "y": 93,
+      "width": 993,
+      "height": 36,
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(204, 204, 204)"
+      },
+      "zIndex": "2"
+    },
+    {
+      "type": "container",
+      "x": 144,
+      "y": 16,
+      "width": 878,
+      "height": 115,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(255, 255, 255)"
+      },
+      "zIndex": "16"
+    },
+    {
+      "type": "container",
+      "x": 0,
+      "y": 0,
+      "width": 172,
+      "height": 652,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "auto"
+    },
+    {
+      "type": "container",
+      "x": 0,
+      "y": 0,
+      "width": 131,
+      "height": 77,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "auto"
+    },
+    {
+      "type": "container",
+      "x": 0,
+      "y": 0,
+      "width": 149,
+      "height": 327,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "auto"
+    },
+    {
+      "type": "container",
+      "x": 0,
+      "y": 0,
+      "width": 138,
+      "height": 127,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "auto"
+    },
+    {
+      "type": "container",
+      "x": 0,
+      "y": 0,
+      "width": 96,
+      "height": 502,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "auto"
+    },
+    {
+      "type": "container",
+      "x": 872,
+      "y": 16,
+      "width": 142,
+      "height": 30,
+      "style": {
+        "backgroundColor": "rgba(0, 102, 0, 1)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(255, 255, 255)"
+      },
+      "zIndex": "19"
+    },
+    {
+      "type": "container",
+      "x": 129,
+      "y": 459,
+      "width": 415,
+      "height": 56,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "20"
+    },
+    {
+      "type": "container",
+      "x": 684,
+      "y": 464,
+      "width": 155,
+      "height": 56,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "25"
+    },
+    {
+      "type": "container",
+      "x": 125,
+      "y": 1004,
+      "width": 536,
+      "height": 132,
+      "style": {
+        "backgroundColor": "rgba(226, 226, 226, 1)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(186, 186, 186)"
+      },
+      "zIndex": "26"
+    },
+    {
+      "type": "container",
+      "x": 119,
+      "y": 919,
+      "width": 343,
+      "height": 63,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "47"
+    },
+    {
+      "type": "container",
+      "x": 124,
+      "y": 959,
+      "width": 534,
+      "height": 35,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "49"
+    },
+    {
+      "type": "container",
+      "x": 130,
+      "y": 1531,
+      "width": 916,
+      "height": 49,
+      "style": {
+        "backgroundColor": "rgba(226, 226, 226, 1)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(186, 186, 186)"
+      },
+      "zIndex": "54"
+    },
+    {
+      "type": "container",
+      "x": 229,
+      "y": 1907,
+      "width": 346,
+      "height": 52,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "55"
+    },
+    {
+      "type": "container",
+      "x": 229,
+      "y": 1963,
+      "width": 346,
+      "height": 60,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "62"
+    },
+    {
+      "type": "container",
+      "x": 229,
+      "y": 2029,
+      "width": 346,
+      "height": 60,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "67"
+    },
+    {
+      "type": "container",
+      "x": 1026,
+      "y": 135,
+      "width": 59,
+      "height": 15,
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "72"
+    },
+    {
+      "type": "container",
+      "x": 134,
+      "y": 1808,
+      "width": 343,
+      "height": 63,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "105"
+    },
+    {
+      "type": "container",
+      "x": 135,
+      "y": 1850,
+      "width": 936,
+      "height": 100,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "106"
+    },
+    {
+      "type": "container",
+      "x": 626,
+      "y": 1965,
+      "width": 73,
+      "height": 51,
+      "style": {
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 102, 204)"
+      },
+      "zIndex": "110"
+    },
+    {
+      "type": "container",
+      "x": 713,
+      "y": 1904,
+      "width": 346,
+      "height": 49,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "111"
+    },
+    {
+      "type": "container",
+      "x": 713,
+      "y": 1961,
+      "width": 346,
+      "height": 60,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "112"
+    },
+    {
+      "type": "container",
+      "x": 713,
+      "y": 2029,
+      "width": 346,
+      "height": 58,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "113"
+    },
+    {
+      "type": "container",
+      "x": 228,
+      "y": 2096,
+      "width": 346,
+      "height": 58,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "115"
+    },
+    {
+      "type": "container",
+      "x": 712,
+      "y": 2098,
+      "width": 346,
+      "height": 51,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "120"
+    },
+    {
+      "type": "container",
+      "x": 712,
+      "y": 2158,
+      "width": 346,
+      "height": 48,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "127"
+    },
+    {
+      "type": "container",
+      "x": 228,
+      "y": 2160,
+      "width": 346,
+      "height": 46,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "133"
+    },
+    {
+      "type": "container",
+      "x": 713,
+      "y": 2218,
+      "width": 346,
+      "height": 58,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "153"
+    },
+    {
+      "type": "container",
+      "x": 228,
+      "y": 2220,
+      "width": 346,
+      "height": 58,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "156"
+    },
+    {
+      "type": "container",
+      "x": 140,
+      "y": 2413,
+      "width": 343,
+      "height": 63,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "159"
+    },
+    {
+      "type": "container",
+      "x": 142,
+      "y": 2456,
+      "width": 926,
+      "height": 179,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "160"
+    },
+    {
+      "type": "container",
+      "x": 249,
+      "y": 1200,
+      "width": 343,
+      "height": 39,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "161"
+    },
+    {
+      "type": "container",
+      "x": 250,
+      "y": 1251,
+      "width": 384,
+      "height": 106,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "164"
+    },
+    {
+      "type": "container",
+      "x": 375,
+      "y": 1629,
+      "width": 674,
+      "height": 170,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "167"
+    },
+    {
+      "type": "container",
+      "x": 130,
+      "y": 1165,
+      "width": 343,
+      "height": 36,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "168"
+    },
+    {
+      "type": "container",
+      "x": 253,
+      "y": 1360,
+      "width": 343,
+      "height": 36,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "174"
+    },
+    {
+      "type": "container",
+      "x": 249,
+      "y": 1397,
+      "width": 384,
+      "height": 29,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "175"
+    },
+    {
+      "type": "container",
+      "x": 615,
+      "y": 1162,
+      "width": 343,
+      "height": 36,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "176"
+    },
+    {
+      "type": "container",
+      "x": 862,
+      "y": 1402,
+      "width": 207,
+      "height": 67,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "179"
+    },
+    {
+      "type": "container",
+      "x": 736,
+      "y": 963,
+      "width": 154,
+      "height": 77,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "187"
+    },
+    {
+      "type": "container",
+      "x": 737,
+      "y": 991,
+      "width": 177,
+      "height": 21,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "188"
+    },
+    {
+      "type": "container",
+      "x": 129,
+      "y": 509,
+      "width": 534,
+      "height": 304,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "190"
+    },
+    {
+      "type": "container",
+      "x": 249,
+      "y": 1471,
+      "width": 384,
+      "height": 34,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "195"
+    },
+    {
+      "type": "container",
+      "x": 250,
+      "y": 1437,
+      "width": 343,
+      "height": 36,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "196"
+    },
+    {
+      "type": "container",
+      "x": 126,
+      "y": 807,
+      "width": 400,
+      "height": 41,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(44, 44, 44)"
+      },
+      "zIndex": "199"
+    },
+    {
+      "type": "container",
+      "x": 127,
+      "y": 852,
+      "width": 532,
+      "height": 100,
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(0, 0, 0)"
+      },
+      "zIndex": "200"
+    },
+    {
+      "type": "container",
+      "x": 350,
+      "y": 151,
+      "width": 675,
+      "height": 307,
+      "style": {
+        "backgroundColor": "rgba(226, 226, 226, 0.32)",
+        "borderWidth": "1px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(186, 186, 186)"
+      },
+      "zIndex": "205"
+    },
+    {
+      "type": "container",
+      "x": 227,
+      "y": 2288,
+      "width": 346,
+      "height": 58,
+      "style": {
+        "backgroundColor": "rgba(116, 201, 64, 0.53)",
+        "borderWidth": "0px",
+        "borderRadius": "0px",
+        "borderColor": "rgb(51, 68, 0)"
+      },
+      "zIndex": "207"
+    }
+  ],
+  [
+    {
+      "type": "container",
+      "x": 677,
+      "y": 509,
+      "width": 179,
+      "height": 26,
+      "label": "Functional Limb Weakness",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "73"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 509,
+      "width": 179,
+      "height": 26,
+      "label": "Functional Tremor",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "75"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 539,
+      "width": 179,
+      "height": 26,
+      "label": "Blackouts / Attacks",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.48)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(13, 13, 13)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(13, 13, 13, 1)"
+        }
+      },
+      "zIndex": "76"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 539,
+      "width": 181,
+      "height": 26,
+      "label": "Functional Dystonia/Spasm",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "77"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 569,
+      "width": 180,
+      "height": 26,
+      "label": "Sensory Symptoms",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.51)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(13, 13, 13)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(13, 13, 13, 1)"
+        }
+      },
+      "zIndex": "78"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 569,
+      "width": 180,
+      "height": 26,
+      "label": "Functional Walking Problems",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "79"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 599,
+      "width": 182,
+      "height": 26,
+      "label": "Pain",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "80"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 599,
+      "width": 180,
+      "height": 26,
+      "label": "Word Finding Difficulty",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.52)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(13, 13, 13)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(13, 13, 13, 1)"
+        }
+      },
+      "zIndex": "81"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 629,
+      "width": 181,
+      "height": 26,
+      "label": "Tiredness / Fatigue",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(13, 13, 13)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(13, 13, 13, 1)"
+        }
+      },
+      "zIndex": "82"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 629,
+      "width": 180,
+      "height": 26,
+      "label": "Slurred Speech",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.48)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "83"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 659,
+      "width": 181,
+      "height": 26,
+      "label": "Sleep Problems",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "84"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 659,
+      "width": 180,
+      "height": 26,
+      "label": "Bladder Symptoms",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "85"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 689,
+      "width": 176,
+      "height": 24,
+      "label": "Poor Memory / Concentration",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "86"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 689,
+      "width": 181,
+      "height": 26,
+      "label": "Bowel Symptoms",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "87"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 719,
+      "width": 181,
+      "height": 26,
+      "label": "Dissociation",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "88"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 839,
+      "width": 179,
+      "height": 26,
+      "label": "Low Mood",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.51)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "89"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 749,
+      "width": 174,
+      "height": 26,
+      "label": "Worry / Panic",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "90"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 749,
+      "width": 181,
+      "height": 26,
+      "label": "Swallowing Problems",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.51)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "91"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 779,
+      "width": 180,
+      "height": 26,
+      "label": "Dizziness",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "92"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 779,
+      "width": 179,
+      "height": 26,
+      "label": "Complex Regional Pain",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "93"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 809,
+      "width": 181,
+      "height": 26,
+      "label": "Headache",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "94"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 869,
+      "width": 179,
+      "height": 26,
+      "label": "Functional Jerks and Twitches",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.48)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "95"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 809,
+      "width": 180,
+      "height": 26,
+      "label": "Health Anxiety",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.48)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "96"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 869,
+      "width": 180,
+      "height": 26,
+      "label": "Facial Spasm",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.52)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "97"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 719,
+      "width": 180,
+      "height": 26,
+      "label": "Drop Attacks",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "129"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 839,
+      "width": 179,
+      "height": 26,
+      "label": "Post-Concussion Syndrome",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.48)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "130"
+    },
+    {
+      "type": "container",
+      "x": 873,
+      "y": 899,
+      "width": 180,
+      "height": 26,
+      "label": "Other Symptoms",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.49)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "131"
+    },
+    {
+      "type": "container",
+      "x": 677,
+      "y": 899,
+      "width": 180,
+      "height": 26,
+      "label": "Visual Symptoms",
+      "style": {
+        "backgroundColor": "rgba(135, 182, 17, 0.48)",
+        "borderWidth": "0px",
+        "borderRadius": "100px",
+        "borderColor": "rgb(0, 0, 0)",
+        "labelStyle": {
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgba(0, 0, 0, 1)"
+        }
+      },
+      "zIndex": "132"
+    }
+  ]
+]
